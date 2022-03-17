@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kokoa Clone
 
-HTML & CSS are so much fun!
+Study HTML, CSS making kokoatalk website.
